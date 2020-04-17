@@ -17,7 +17,7 @@ default = []
 [dependencies]
 libc = "0.2"
 local-encoding = "0.2.0"
-parity-snappy-sys = "0.1.1"
+parity-snappy-sys = "0.1.2"
 
 [build-dependencies]
 cmake = "0.1"
